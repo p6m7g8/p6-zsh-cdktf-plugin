@@ -1,16 +1,20 @@
-# p6-zsh-cdktf-plugin
+# P6's POSIX.2 p6-zsh-cdktf-plugin
 
 ## Table of Contents
 
 ### p6-zsh-cdktf-plugin
 
-- [p6-zsh-cdktf-plugin](#p6-zsh-cdktf-plugin)
-  - [Badges](#badges)
+- [P6's POSIX.2 p6-zsh-cdktf-plugin](#p6s-posix2-p6-zsh-cdktf-plugin)
+  - [Table of Contents](#table-of-contents)
+    - [p6-zsh-cdktf-plugin](#p6-zsh-cdktf-plugin)
+    - [Badges](#badges)
   - [Summary](#summary)
   - [Contributing](#contributing)
   - [Code of Conduct](#code-of-conduct)
   - [Changes](#changes)
-    - [Usage](#usage)
+  - [Usage](#usage)
+    - [Aliases](#aliases)
+    - [Convenience Functions](#convenience-functions)
   - [Author](#author)
 
 ### Badges
@@ -20,7 +24,7 @@
 
 ## Summary
 
-This plugin provides some aliases for [cdktf](https://github.com/cdktf/cdktf) 
+This plugin provides some aliases for [cdktf](https://github.com/cdktf/cdktf)
 
 [Awesome List](https://github.com/p6m7g8/awesome-cdktf)
 
@@ -45,7 +49,7 @@ This plugin provides some aliases for [cdktf](https://github.com/cdktf/cdktf)
 - alias ctfd='ctf deploy --auto-approve=1'
 - alias ctfD='ctf destroy'
 
-### Convience Functions
+### Convenience Functions
 
 ## Author
 
